@@ -1,0 +1,32 @@
+{
+    "id": "1A1E5B52",
+    "path": "~/e-Portfolio/Projects.qmd",
+    "project_path": "Projects.qmd",
+    "type": "quarto_markdown",
+    "hash": "2076500306",
+    "contents": "",
+    "dirty": false,
+    "created": 1790783548091.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "191:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1790785340,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1790785340227,
+    "read_only": false,
+    "read_only_alternatives": []
+}

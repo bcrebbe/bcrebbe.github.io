@@ -1,0 +1,22 @@
+---
+title: "Brady Crebbe" 
+image: "CrebbeHeadshot.png"
+about: 
+  template: jolla 
+  links: 
+    - icon: github 
+      text: GitHub 
+      href: https://github.com/bcrebbe 
+    
+    - icon: linkedin 
+      text: LinkedIn 
+      href: https://linkedin.com/in/bradycrebbe 
+    
+    - icon: inboxes 
+      text: Email 
+      href: mailto:[bradycrebbe@outlook]
+---
+
+Industrial Engineering & Operations Analytics Student
+
+University of Arkansas

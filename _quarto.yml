@@ -1,0 +1,33 @@
+project: 
+  type: website 
+  output-dir: docs 
+
+resources: 
+- "CrebbeSophmoreResume.pdf"
+  
+website: 
+  title: "Brady Crebbe" 
+  search: false
+  navbar: 
+    right: 
+      - icon: github 
+        href: https://github.com/ 
+    
+      - text: Home 
+        href: index.qmd 
+      
+      - text: About Me 
+        href: aboutme.qmd
+      
+      - text: Projects 
+        href: Projects.qmd
+        
+      - text: Resume 
+        href: resume.qmd 
+format: 
+  html: 
+    theme: litera
+    css: styles.css 
+  
+editor: visual 
+

@@ -1,0 +1,32 @@
+{
+    "id": "78D4B37E",
+    "path": "~/e-Portfolio/aboutme.qmd",
+    "project_path": "aboutme.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1790992696398.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "80:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1790997926,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1790997926332,
+    "read_only": false,
+    "read_only_alternatives": []
+}
