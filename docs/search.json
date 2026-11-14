@@ -7,11 +7,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brady Crebbe",
+    "objectID": "posts/Data Visualization Team Project/index.html",
+    "href": "posts/Data Visualization Team Project/index.html",
+    "title": "Exercise Data Visualization Team Project",
     "section": "",
-    "text": "Industrial Engineering & Operations Analytics Student\nUniversity of Arkansas"
+    "text": "For this project we chose a data set that includes information of gym members of various backgrounds and goals when exercising. We are all interested in exercise and this data set provided us with the information to explore various topics and questions related to working out and exercising.\n     Team Members e-portfolios:\nMe - https://bcrebbe.github.io/ Cooper Martindale - https://coopermartindale.github.io/ Garrett Studer - https://gstuder621.github.io/ Daniel Lain - https://dlain-uark.github.io/ Landon Moore - https://landonmo0re.github.io/"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Brady Crebbe, and I am an Industrial Engineering and Operations Analytics student at the University of Arkansas.\nI enjoy solving problems, working with data, and finding ways to make systems more efficient. Through my coursework, job experience, and school projects I have been developing skills in programming, statistics, and process improvement while building a strong foundation in engineering principles.\nThis portfolio showcases projects, coursework, and experiences that have contributed to my growth as a student and future engineer. I look forward to continuing to learn and applying these skills in professional settings."
   },
   {
     "objectID": "about.html",
@@ -21,11 +28,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "aboutme.html",
-    "href": "aboutme.html",
-    "title": "About Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brady Crebbe",
     "section": "",
-    "text": "Hello! My name is Brady Crebbe, and I am an Industrial Engineering and Operations Analytics student at the University of Arkansas.\nI enjoy solving problems, working with data, and finding ways to make systems more efficient. Through my coursework, job experience, and school projects I have been developing skills in programming, statistics, and process improvement while building a strong foundation in engineering principles.\nThis portfolio showcases projects, coursework, and experiences that have contributed to my growth as a student and future engineer. I look forward to continuing to learn and applying these skills in professional settings."
+    "text": "Industrial Engineering & Operations Analytics Student\nUniversity of Arkansas"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -39,6 +46,6 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 30, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nExercise Data Visualization Team Project\n\n\n\n\n\n\nMe, Cooper Martindale, Landon Moore, Daniel Lain, Garrett Studer\n\n\nNov 13, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
