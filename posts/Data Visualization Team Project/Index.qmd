@@ -3,7 +3,8 @@ title: "Exercise Data Visualization Team Project"
 author: "Me, Cooper Martindale, Landon Moore, Daniel Lain, Garrett Studer" 
 date: "2026-11-13"
 categories: [data visualization, data analysis, excel, presentation]
-format: html 
+format: html
+image: "Project Cover.avif"
 ---
 
 For this project we chose a data set that includes information of gym members of various backgrounds and goals when exercising. We are all interested in exercise and this data set provided us with the information to explore various topics and questions related to working out and exercising. 
