@@ -11,6 +11,8 @@ For this project we chose a data set that includes information of gym members of
 
 
 ![The presentation given by our team can be found below with a brief explanation succeeding each slide.](Intro Project Slide 1.jpg)
+This is just our cover slide where the team is introduced and we added a title to our presentation.
+
 ![How does resting heart rate vary across different age groups?](Intro Project Slide 2.jpg)
 We chose this question because understanding how people’s body works when exercising can be highly dependent factors such as age, body mass index, what workouts are being done, and how many calories are burned in correlation to these factors.In Excel, we created a Pivot Table using the columns “Age” and “RestingBPM”. We set Age as the rows and the average of RestingBPM as values, and created a time series plot highlighting the PivotTable.We found that although there are some fluctuations in resting heart rate through ages 30-45, the average resting heart rate remains relatively stable throughout.We used the time series plot from Excel and added it to our slide. We then included a statement explaining that the average resting heart rate remains stable throughout all ages in the sample.
 
@@ -25,7 +27,7 @@ We wanted to see how the experience people have at working out differs the distr
 
 Team Members e-portfolios:
 
-Me -  https://bcrebbe.github.io/ 
+Me - https://bcrebbe.github.io/ 
 Cooper Martindale - https://coopermartindale.github.io/
 Garrett Studer - https://gstuder621.github.io/ 
 Daniel Lain - https://dlain-uark.github.io/ 
