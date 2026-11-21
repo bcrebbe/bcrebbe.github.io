@@ -1,9 +1,10 @@
 ---
 title: "Exercise Data Visualization Team Project"
+description: "A group project focused on the analysis of gym member exercise data using Excel visualizations to investigate different relationships between age, heart rate, BMI, and more."
 author: "Me, Cooper Martindale, Landon Moore, Daniel Lain, Garrett Studer" 
 date: "2026-11-13"
 categories: [data visualization, data analysis, excel, presentation]
-format: html
+format: html 
 image: "Project Cover.jpg"
 ---
 
